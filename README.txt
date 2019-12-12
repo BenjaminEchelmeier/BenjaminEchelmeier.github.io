@@ -1,4 +1,4 @@
-Simple portfolio designed on a template from html5up. Check it out [I'm an inline-style link](https://BenjaminEchelmeier@github.io)
+Simple portfolio designed on a template from html5up. Check it out [here](https://BenjaminEchelmeier@github.io)
 
 Credits:
 
