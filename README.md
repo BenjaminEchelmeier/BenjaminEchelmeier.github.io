@@ -1,20 +1,20 @@
 Simple portfolio designed on a template from html5up. Check it out [here](https://BenjaminEchelmeier@github.io).
 
 Credits:
-  * Boilerplate:
+* Boilerplate:
   
    html5up.net | @ajlkn (Story)
    
-  * Images:
+* Images:
   
    [Unsplash](https://unsplash.com)
    Photo by Goran Ivos on Unsplash
    
-  * Icons:
+* Icons:
   
    [Font Awesome](https://fontawesome.com/)
    
-  * Other:
+* Other:
   
    [jQuery](https://jquery.com)  
    [Scrollex](https://github.com/ajlkn/jquery.scrollex)  
