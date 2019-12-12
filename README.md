@@ -3,7 +3,7 @@ Simple portfolio designed on a template from html5up. Check it out [here](https:
 Credits:
 * Boilerplate:
   
-   html5up.net | @ajlkn (Story)
+   html5up.net | @ajlkn ([Story](https://html5up.net/story))
    
 * Images:
   
